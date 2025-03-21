@@ -1,6 +1,4 @@
 # Unit Testing in Python
-
-## Introduction
 Unit testing is a software testing technique where individual units or components of a program are tested to ensure they work as expected. In Python, unit testing is commonly done using the `unittest` module.
 
 ## Why Unit Testing?
