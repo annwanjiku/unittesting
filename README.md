@@ -64,6 +64,5 @@ class TestExample(unittest.TestCase):
 - Aim for high code coverage but prioritize meaningful test cases.
 
 
-Unit testing is an essential practice in software development that helps maintain code quality. 
-By using Python’s `unittest` framework, developers can efficiently write and run tests to validate their code.
+Unit testing is an essential practice in software development that helps maintain code quality.  By using Python’s `unittest` framework, developers can efficiently write and run tests to validate their code.
 
